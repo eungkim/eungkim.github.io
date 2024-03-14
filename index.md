@@ -1,24 +1,22 @@
 ---
 layout: default
 ---
-## About
-I am a Ph.D. student in Artificial Intelligence at [Music and Audio Research Group](https://snu-marg.notion.site), Seoul National University. My research interests lie in robust speech processing.
-
-## Education
+### About
+I am a Ph.D. student in Artificial Intelligence at [Music and Audio Research Group, Seoul National University](https://snu-marg.notion.site). My research interests lie in robust speech processing.  
+  
+### Education
 [2021 - now]  
-**Ph.D. in Artificial Intelligence, Seoul National University**  
+Ph.D. in Artificial Intelligence, Seoul National University  
 Advisor : [Prof. Kyogu Lee](https://scholar.google.com/citations?user=Fk4jQFEAAAAJ&hl=en&oi=ao)
 
 [2017 - 2021]  
-**B.S. in Systems Management Engineering, SungKyunKwan University**  
+B.S. in Systems Management Engineering, Sungkyunkwan University  
 
-## Experience
+### Experience
 [Sep 2023 - Feb 2024]  
-**NAVER Papago**  
-Research Intern  
-Multi-lingual ASR, knowledge distillation for ASR
+Research Intern, NAVER Papago  
 
-## Publications [(google scholar)](https://scholar.google.com/citations?hl=en&user=nxoqISsAAAAJ)
+### Publications [(google scholar)](https://scholar.google.com/citations?hl=en&user=nxoqISsAAAAJ)
 - **Debiased Automatic Speech Recognition for Dysarthric Speech via Sample Reweighting with Sample Affinity Test** [[link]](https://arxiv.org/abs/2305.13108)  
   __Eungbeom Kim__, Yunkee Chae, Jaeheon Sim, Kyogu Lee  
   INTERSPEECH 2023
