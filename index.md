@@ -17,7 +17,7 @@ B.S. in Systems Management Engineering, Sungkyunkwan University
 Research Intern, NAVER Papago  
 
 ### Publications [(google scholar)](https://scholar.google.com/citations?hl=en&user=nxoqISsAAAAJ)
-- **Guiding Frame-Level CTC Alignments Using Self-Knowledge Distillation** [link]
+- **Guiding Frame-Level CTC Alignments Using Self-Knowledge Distillation** [link]  
   __Eungbeom Kim__, Hantae Kim, Kyogu Lee  
   INTERSPEECH 2024
 - **Debiased Automatic Speech Recognition for Dysarthric Speech via Sample Reweighting with Sample Affinity Test** [[link]](https://arxiv.org/abs/2305.13108)  
