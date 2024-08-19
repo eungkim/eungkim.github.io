@@ -2,7 +2,7 @@
 layout: default
 ---
 ### About
-I am a Ph.D. student in Artificial Intelligence at [Music and Audio Research Group, Seoul National University](https://snu-marg.notion.site). My research interests lie in robust speech processing.  
+I am a Ph.D. student in Artificial Intelligence at [Music and Audio Research Group, Seoul National University](https://snu-marg.notion.site). My research interests lie in robust and efficient speech processing. In particular, I am working on domain shift and uncertainty (robustness); knowledge distillation (architectural efficiency); semi-supervised learning and training acceleration (data efficiency).
   
 ### Education
 [2021 - now]  
@@ -30,4 +30,7 @@ Research Intern, NAVER Papago
   Jin Woo Lee, __Eungbeom Kim__, Junghyun Koo, Kyogu Lee  
   INTERSPEECH 2022
 
-
+### Challenge
+- **Automated Audio Captioning Using Parameter Efficient Fine-Tuning and Merging for LLMs**  
+  __Eungbeom Kim__, Jaeheon Sim, Jinwoo Lee, Kyogu Lee  
+  4th Place at Automated Audio Captioning on DCASE 2024
