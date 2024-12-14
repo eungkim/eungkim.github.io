@@ -19,19 +19,19 @@ Research Intern, NAVER Papago
 ### Publications [(google scholar)](https://scholar.google.com/citations?hl=en&user=nxoqISsAAAAJ)
 - **Uncertainty-Aware Self-Training for CTC-Based Automatic Speech Recognition**  
   __Eungbeom Kim__, Kyogu Lee  
-  AAAI 2025
+  2025 AAAI
 - **Guiding Frame-Level CTC Alignments Using Self-Knowledge Distillation** [[link]](https://arxiv.org/abs/2406.07909)  
   __Eungbeom Kim__, Hantae Kim, Kyogu Lee  
-  INTERSPEECH 2024
+  2024 INTERSPEECH
 - **Debiased Automatic Speech Recognition for Dysarthric Speech via Sample Reweighting with Sample Affinity Test** [[link]](https://arxiv.org/abs/2305.13108)  
   __Eungbeom Kim__, Yunkee Chae, Jaeheon Sim, Kyogu Lee  
-  INTERSPEECH 2023
+  2023 INTERSPEECH
 - **Exploring Train and Test-Time Augmentations for Audio-Language Learning** [[link]](https://arxiv.org/abs/2210.17143)  
   __Eungbeom Kim__, Jinhee Kim, Yoori Oh, Kyungsu Kim, Minju Park, Jaeheon Sim, Jinwoo Lee, Kyogu Lee  
-  arXiv 2022
+  2022 arXiv
 - **Representation Selective Self-distillation and wav2vec 2.0 Feature Exploration for Spoof-aware Speaker Verification** [[link]](https://arxiv.org/abs/2204.02639)  
   Jin Woo Lee, __Eungbeom Kim__, Junghyun Koo, Kyogu Lee  
-  INTERSPEECH 2022
+  2022 INTERSPEECH
 
 ### Challenge
 - **Automated Audio Captioning Using Parameter Efficient Fine-Tuning and Merging for LLMs**  
