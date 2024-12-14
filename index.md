@@ -17,6 +17,9 @@ B.S. in Systems Management Engineering, Sungkyunkwan University
 Research Intern, NAVER Papago  
 
 ### Publications [(google scholar)](https://scholar.google.com/citations?hl=en&user=nxoqISsAAAAJ)
+- **Uncertainty-Aware Self-Training for CTC-Based Automatic Speech Recognition**  
+  __Eungbeom Kim__, Kyogu Lee  
+  AAAI 2025
 - **Guiding Frame-Level CTC Alignments Using Self-Knowledge Distillation** [[link]](https://arxiv.org/abs/2406.07909)  
   __Eungbeom Kim__, Hantae Kim, Kyogu Lee  
   INTERSPEECH 2024
