@@ -37,3 +37,6 @@ Research Intern, NAVER Papago
 - **Automated Audio Captioning Using Parameter Efficient Fine-Tuning and Merging for LLMs**  
   __Eungbeom Kim__, Jaeheon Sim, Jinwoo Lee, Kyogu Lee  
   4th Place at Automated Audio Captioning on DCASE 2024
+
+### Academic Services
+- Reviewer: NeurIPS (2025, 2026), ICML (2026), INTERSPEECH (2026)
