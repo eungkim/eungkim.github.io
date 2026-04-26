@@ -125,6 +125,15 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+header img {
+  width:150px;
+  height:150px;
+  object-fit:cover;
+  border-radius:50%;
+  display:block;
+  margin:10px 0;
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
