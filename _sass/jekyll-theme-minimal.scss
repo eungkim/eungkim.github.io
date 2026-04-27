@@ -127,9 +127,11 @@ header {
 
 header img {
   width:150px;
-  height:auto;
+  height:150px;
   display:block;
   margin:10px 0;
+  border-radius:50%;
+  object-fit:cover;
 }
 
 ul.downloads {
