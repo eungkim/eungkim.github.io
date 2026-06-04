@@ -17,6 +17,9 @@ B.S. in Systems Management Engineering, Sungkyunkwan University
 Research Intern, NAVER Papago  
 
 ### Publications [(google scholar)](https://scholar.google.com/citations?hl=en&user=nxoqISsAAAAJ)
+- **Fast Speech Foundation Model Distillation Using Interleaved Stacking** [link]  
+  __Eungbeom Kim__, Kyogu Lee  
+  2026 INTERSPEECH
 - **Uncertainty-Aware Self-Training for CTC-Based Automatic Speech Recognition** [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/34610)  
   __Eungbeom Kim__, Kyogu Lee  
   2025 AAAI <span style="color:red"> (Oral presentation) </span>
