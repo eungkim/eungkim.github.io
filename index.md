@@ -27,10 +27,10 @@ Research Intern, NAVER Papago
   __Eungbeom Kim__, Hantae Kim, Kyogu Lee  
   2024 INTERSPEECH
 - **Debiased Automatic Speech Recognition for Dysarthric Speech via Sample Reweighting with Sample Affinity Test** [[link]](https://arxiv.org/abs/2305.13108)  
-  __Eungbeom Kim__*, Yunkee Chae*, Jaeheon Sim, Kyogu Lee  
+  __Eungbeom Kim__\*, Yunkee Chae\*, Jaeheon Sim, Kyogu Lee  
   2023 INTERSPEECH
 - **Exploring Train and Test-Time Augmentations for Audio-Language Learning** [[link]](https://arxiv.org/abs/2210.17143)  
-  __Eungbeom Kim__*, Jinhee Kim*, Yoori Oh, Kyungsu Kim, Minju Park, Jaeheon Sim, Jinwoo Lee, Kyogu Lee  
+  __Eungbeom Kim__\*, Jinhee Kim\*, Yoori Oh, Kyungsu Kim, Minju Park, Jaeheon Sim, Jinwoo Lee, Kyogu Lee  
   2022 arXiv
 
 ### Challenge
