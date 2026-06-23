@@ -16,8 +16,8 @@ B.S. in Systems Management Engineering, Sungkyunkwan University
 [Sep 2023 - Feb 2024]  
 Research Intern, NAVER Papago  
 
-### Publications [(google scholar)](https://scholar.google.com/citations?hl=en&user=nxoqISsAAAAJ)
-- **Fast Speech Foundation Model Distillation Using Interleaved Stacking** [link]  
+### Selected Publications [(google scholar)](https://scholar.google.com/citations?hl=en&user=nxoqISsAAAAJ)
+- **Fast Speech Foundation Model Distillation Using Interleaved Stacking** [[link]](https://arxiv.org/abs/2606.11766)  
   __Eungbeom Kim__, Kyogu Lee  
   2026 INTERSPEECH
 - **Uncertainty-Aware Self-Training for CTC-Based Automatic Speech Recognition** [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/34610)  
@@ -27,14 +27,11 @@ Research Intern, NAVER Papago
   __Eungbeom Kim__, Hantae Kim, Kyogu Lee  
   2024 INTERSPEECH
 - **Debiased Automatic Speech Recognition for Dysarthric Speech via Sample Reweighting with Sample Affinity Test** [[link]](https://arxiv.org/abs/2305.13108)  
-  __Eungbeom Kim__, Yunkee Chae, Jaeheon Sim, Kyogu Lee  
+  __Eungbeom Kim__*, Yunkee Chae*, Jaeheon Sim, Kyogu Lee  
   2023 INTERSPEECH
 - **Exploring Train and Test-Time Augmentations for Audio-Language Learning** [[link]](https://arxiv.org/abs/2210.17143)  
-  __Eungbeom Kim__, Jinhee Kim, Yoori Oh, Kyungsu Kim, Minju Park, Jaeheon Sim, Jinwoo Lee, Kyogu Lee  
+  __Eungbeom Kim__*, Jinhee Kim*, Yoori Oh, Kyungsu Kim, Minju Park, Jaeheon Sim, Jinwoo Lee, Kyogu Lee  
   2022 arXiv
-- **Representation Selective Self-distillation and wav2vec 2.0 Feature Exploration for Spoof-aware Speaker Verification** [[link]](https://arxiv.org/abs/2204.02639)  
-  Jin Woo Lee, __Eungbeom Kim__, Junghyun Koo, Kyogu Lee  
-  2022 INTERSPEECH <span style="color:red"> (Oral presentation) </span>
 
 ### Challenge
 - **Automated Audio Captioning Using Parameter Efficient Fine-Tuning and Merging for LLMs**  
