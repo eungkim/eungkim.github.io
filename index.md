@@ -2,7 +2,7 @@
 layout: default
 ---
 ### About
-I am a Ph.D. candidate in Artificial Intelligence at [Music and Audio Research Group, Seoul National University](https://snu-marg.notion.site). My research interests lie in efficient and robust speech processing. In particular, I am working on training acceleration and knowledge distillation (efficiency); uncertainty estimation and domain adaptation (robustness).
+I am a Ph.D. candidate in Artificial Intelligence at [Music and Audio Research Group, Seoul National University](https://snu-marg.notion.site). My research interests lie in efficient and robust speech processing. In particular, I am working on training acceleration and model efficiency (efficiency); uncertainty estimation and domain adaptation (robustness).
   
 ### Education
 [2021 - now]  
