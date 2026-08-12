@@ -39,4 +39,4 @@ Research Intern, NAVER Papago
   4th Place at Automated Audio Captioning on DCASE 2024
 
 ### Academic Services
-- Reviewer: NeurIPS (2025, 2026), ICML (2026), INTERSPEECH (2026)
+- Reviewer: NeurIPS (2025, 2026), AAAI (2026), ICML (2026), INTERSPEECH (2026), SLT (2026)
